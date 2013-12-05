@@ -5,7 +5,7 @@
 package battleship;
 
 /**
- *
+ * Dies ist ein Test
  * @author Andy
  */
 public class Battleship {
