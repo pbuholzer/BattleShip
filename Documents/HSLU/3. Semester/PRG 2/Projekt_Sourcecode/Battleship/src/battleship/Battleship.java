@@ -5,7 +5,7 @@
 package battleship;
 
 /**
- * Dies ist ein Test
+ * Dies ist ein Test für das GIT
  * @author Andy
  */
 public class Battleship {
